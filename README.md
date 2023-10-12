@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wendessonsts/wendessonsts/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100%  height=20% src="https://github.com/wendessonsts/wendessonsts/blob/main/header.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou desenvolvedor backend utilizando NodeJs/NestJs/PHP, sou apaixonado por descobrir novas coisas e utilizá-las para criar soluções de alta qualidade. Hoje sou um desenvolvedor nivel medio focado em backend.</p>&nbsp;
