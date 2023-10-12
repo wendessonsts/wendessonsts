@@ -1,11 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100%  height=20% src="https://github.com/wendessonsts/wendessonsts/blob/main/header.png" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou desenvolvedor backend utilizando NodeJs/NestJs/PHP, sou apaixonado por descobrir novas coisas e utilizá-las para criar soluções de alta qualidade. Hoje sou um desenvolvedor nivel medio focado em backend.</p>&nbsp;
+<p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Sou desenvolvedor backend utilizando NodeJs/PHP, sou apaixonado por descobrir novas coisas e utilizá-las para criar soluções de alta qualidade. Hoje sou um desenvolvedor nivel medio focado em backend.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wendessonsts&theme=radical&mode=weekly" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wendessonsts&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 <img width=40% align="center" src="https://github-readme-stats-git-main-wendessonsts.vercel.app/api/top-langs/?username=wendessonsts&show_icons=true&theme=radical&layout=compact" />
  </div>
  
